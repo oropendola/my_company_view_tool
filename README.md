@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+MyCompanyViewTool::Renderer.copyright 'Irina Saiz', 'All rights reserved'
+```
 
 ## Development
 
